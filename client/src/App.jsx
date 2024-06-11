@@ -1,14 +1,12 @@
+
 import './App.css'
-import Myprofle from './components/MyProfile'
-
-
+import MyProfile from './component/MyProfile'
 
 function App() {
-
   return (
     <>
-      <Myprofle />
-     </>
+      <MyProfile />
+    </>
   )
 }
 
